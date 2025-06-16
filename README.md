@@ -1,5 +1,5 @@
 # chord-detector
-This project will detect the musical chords from audio input
+This project will train models to detect the musical chords from audio input
 
 ## How to Set Up
 1. Download the McGill Billboard dataset from:
@@ -10,4 +10,8 @@ This project will detect the musical chords from audio input
     ├── data/
     │ └── mcgill-billboard/
 
-3. Open and run the `chord_recognition_project.ipynb` notebook
+3. Dependencies
+    In the terminal, run:
+    pip install pandas numpy tqdm sklearn matplotlib librosa
+
+4. Open and run the `chord_detector.ipynb` notebook
