@@ -6,8 +6,11 @@ This project will train models to detect the musical chords from audio input
    https://www.kaggle.com/datasets/jacobvs/mcgill-billboard
 
 2. Unzip it into the `data/mcgill-billboard/` folder inside this project directory:
+
     project_root/
+
     ├── data/
+    
     │ └── mcgill-billboard/
 
 3. Dependencies
